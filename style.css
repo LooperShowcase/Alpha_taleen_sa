@@ -52,7 +52,7 @@ header {
 
 /* Hero */
 .hero {
-  background: url('https://i.imgur.com/oJ5r7XG.jpeg') center/cover no-repeat;
+  background: url('https://people.com/thmb/uEQYBOC2VjQERG1kOkl24OYBb6o=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(794x225:796x227)/blackpink-2-5cf70c24bddd4a4789e117cdfe23661c.jpg') center/cover no-repeat;
   height: 90vh;
   display: flex;
   justify-content: center;
@@ -133,3 +133,4 @@ footer {
   color: #aaa;
   border-top: 1px solid #ff4da6;
 }
+
